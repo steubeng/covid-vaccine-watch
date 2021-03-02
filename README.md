@@ -9,3 +9,8 @@ pip install twilio
 
 pip install winsound (optional)
 ```
+
+## Run it!
+```
+python covidVaxWatch.py
+```
