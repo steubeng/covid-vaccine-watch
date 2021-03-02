@@ -15,7 +15,7 @@ providerNameList = [
     "SUNY Albany ",
     "SUNY Albany"
 ]
-delay = 60
+delay = 120
 PROVIDER_LIST = "providerList"
 PROVIDER_NAME = "providerName"
 AVAILABLE_APPOINTMENTS = "availableAppointments"
