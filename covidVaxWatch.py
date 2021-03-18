@@ -19,8 +19,8 @@ delay = 120
 PROVIDER_LIST = "providerList"
 PROVIDER_NAME = "providerName"
 AVAILABLE_APPOINTMENTS = "availableAppointments"
-APPOINTMENTS_AVAILABLE_CODE = "AA"
-NO_APPOINTMENTS_CURRENTLY_CODE = "NAC"
+APPOINTMENTS_AVAILABLE_CODE = "Y"
+NO_APPOINTMENTS_CURRENTLY_CODE = "N"
 
 while (True):
     response = requests.get(backendApiCall) 
